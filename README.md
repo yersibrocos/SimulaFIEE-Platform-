@@ -90,26 +90,26 @@ Ubicarse en la carpeta raíz del proyecto.
 ### 2️⃣ Crear entorno virtual
 
 bash
-python -m venv .venv
+```python -m venv .venv
 
 
 ### 3️⃣ Activar entorno virtual
 
 Windows (PowerShell):
 
-bash
+```bash
 .\.venv\Scripts\Activate.ps1
 
 
 ### 4️⃣ Instalar dependencia principal
 
-bash
+```bash
 pip install pygame
 
 
 ### 5️⃣ Ejecutar el menú principal
 
-bash
+```bash
 python main.py
 
 
